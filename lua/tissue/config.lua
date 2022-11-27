@@ -267,6 +267,10 @@ config['plugins'] = {
   CmpItemKindMethod = { link = 'CmpItemKindFunction' },
   CmpItemKindKeyword = { fg = p.base05, bg = c.none },
   CmpItemKindUnit = { link = 'CmpItemKindKeyword' },
+
+  -- https://github.com/j-hui/fidget.nvim
+  FidgetTask = { fg = p.base03, bg = c.none },
+  FidgetTitle = { fg = p.purple2, bg = c.none },
 }
 
 return config

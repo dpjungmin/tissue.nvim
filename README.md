@@ -34,6 +34,7 @@ colorscheme tissue
 - [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+- [fidget.nvim](https://github.com/j-hui/fidget.nvim)
 
 ---
 
