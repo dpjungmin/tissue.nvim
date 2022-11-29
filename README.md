@@ -2,6 +2,12 @@
 
 A dark theme for neovim.
 
+## Preview
+
+<p align="center">
+  <img width="900" alt="Screen Shot 2022-11-29 at 11 48 17 AM" src="https://user-images.githubusercontent.com/64093170/204636180-be368a2d-6c7c-41d4-9303-4401ac0bceb8.png">
+  <p align="center">Rust</p>
+</p>
 
 ## Installation
 
@@ -41,5 +47,3 @@ colorscheme tissue
 Currently WIP.
 
 [packer]: https://github.com/wbthomason/packer.nvim
-
-<!-- Add preview -->
