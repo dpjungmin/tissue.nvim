@@ -5,8 +5,7 @@ A dark theme for neovim.
 ## Preview
 
 <p align="center">
-  <img width="900" alt="Screen Shot 2022-11-29 at 11 48 17 AM" src="https://user-images.githubusercontent.com/64093170/204636180-be368a2d-6c7c-41d4-9303-4401ac0bceb8.png">
-  <p align="center">Rust</p>
+  <img width="1470" alt="Screen Shot 2022-11-29 at 3 13 06 PM" src="https://user-images.githubusercontent.com/64093170/204669152-92659ff7-64d3-4128-9470-8f6412d7123b.png">
 </p>
 
 ## Installation
