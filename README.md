@@ -1,6 +1,6 @@
 # tissue.nvim
 
-A dark theme for neovim.
+ A soft dark theme for Neovim.
 
 ## Preview
 
